@@ -1,0 +1,15 @@
+creating a json server.
+----------------------------
+
+1) iport json server package and store it into a variable.
+2) by using create method create a json server.
+3) creeate a connection from json server to db.json file.
+4) set the port of the server.
+5) start the server.
+6) log that the server is running on the console.
+7) log that the server has started successfully.
+8) return the server object so we can use it later in our code.
+
+
+
+
